@@ -1,0 +1,7 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "browser",
+  "experimentalDecorators": true,
+  "decorators-legacy": true
+}
